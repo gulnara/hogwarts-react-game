@@ -16,7 +16,7 @@ ReactDOM.render(<Provider store={store}>
 		  </div>
 		  <ReactAudioPlayer
 	    src= './HedwigsTheme.ogg'
-	    // autoPlay
+	    autoPlay
 	    controls
 	  />
   </div>
