@@ -5,21 +5,18 @@ On-boarding game!
 
 Tools Used:
 
-React JS
-Redux
-Audio plugin
-80 + custom pixel assets
-4 hours of sleep
-Lots of HP nerd pride!
-
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+React JS<br />
+Redux<br />
+Audio plugin<br />
+80 + custom pixel assets<br />
+4 hours of sleep<br />
+Lots of HP nerd pride!<br />
 
 ## Available Scripts
 
 In the project directory, you can run:
 
-### `yarn start`
+### `yarn & yarn start`
 
 Runs the app in the development mode.<br />
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
