@@ -166,6 +166,8 @@ function getTileSprite(type){
 			return 'solder2'
 		case 81:
 			return 'letter'
+		case 82:
+			return 'christmas_tree'
 
 	}
 }

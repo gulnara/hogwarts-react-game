@@ -375,3 +375,8 @@
 	background-image: url('/tiles/letter.gif');
 	background-size: 40px 40px;
 }
+
+.christmas_tree{
+	background-image: url('/tiles/christmas_tree.gif');
+	background-size: 40px 40px;
+}
