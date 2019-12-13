@@ -1,0 +1,377 @@
+.tile{
+	display: inline-flex;
+	background-color: #3d253b;
+}
+
+.castle_floor {
+	background-image: url('/tiles/floor.png');
+}
+
+.grass {
+	background-image: url('/tiles/grass.png');
+}
+
+.left_door {
+	background-image: url('/tiles/left_door.png');
+}
+
+.right_door {
+	background-image: url('/tiles/right_door.png');
+}
+
+.left_door_turned {
+	background-image: url('/tiles/left_door_turned.png');
+}
+
+.right_door_turned {
+	background-image: url('/tiles/right_door_turned.png');
+}
+
+
+.hut_one {
+	background-image: url('/tiles/hut.png');
+}
+
+.hut_two {
+	background-image: url('/tiles/hut.png');
+	background-position: 0px 40px;
+}
+
+.hut_three {
+	background-image: url('/tiles/hut.png');
+	background-position: 40px 40px;
+}
+
+.hut_four {
+	background-image: url('/tiles/hut.png');
+	background-position: 40px 0px;
+
+}
+
+.left_gate {
+	background-image: url('/tiles/left_gate.png');
+}
+
+.right_gate {
+	background-image: url('/tiles/right_gate.png');
+}
+
+.lake {
+	background-image: url('/tiles/lake.png');
+}
+
+.grass_lake {
+	background-image: url('/tiles/grass_lake.png');
+}
+
+.top_wall {
+	background-image: url('/tiles/top_wall2.png');
+}
+
+.bottom_wall {
+	background-image: url('/tiles/bottom_wall2.png');
+}
+
+.left_wall {
+	background-image: url('/tiles/left_wall2.png');
+}
+
+.right_wall {
+	background-image: url('/tiles/right_wall2.png');
+}
+
+.top_left_corner {
+	background-image: url('/tiles/top_left_corner2.png');
+}
+
+.top_right_corner {
+	background-image: url('/tiles/top_right_corner2.png');
+}
+
+.bottom_left_corner {
+	background-image: url('/tiles/bottom_left_corner2.png');
+}
+
+.bottom_right_corner {
+	background-image: url('/tiles/bottom_right_corner2.png');
+}
+
+.inner_left_corner {
+	background-image: url('/tiles/inner_left_corner.png');
+}
+
+.inner_right_corner {
+	background-image: url('/tiles/inner_right_corner.png');
+}
+
+.skeleton {
+	background-image: url('/tiles/skeleton.gif');
+	background-size: 40px 40px; 
+}
+
+.potion1 {
+	background-image: url('/tiles/potion1.gif');
+	background-size: 40px 40px;
+}
+
+.potion2 {
+	background-image: url('/tiles/potion2.gif');
+	background-size: 40px 40px; 
+}
+
+.potion3 {
+	background-image: url('/tiles/potion3.gif');
+	background-size: 40px 40px; 
+}
+
+.potion4 {
+	background-image: url('/tiles/potion4.gif');
+	background-size: 40px 40px; 
+}
+
+.key {
+	background-image: url('/tiles/key.gif');
+	background-size: 40px 40px; 
+}
+
+.wizard{
+	background-image: url('/tiles/wizard.gif');
+	background-size: 40px 40px; 
+}
+
+
+.dementor_blue{
+	background-image: url('/tiles/dementor_blue.gif');
+	background-size: 40px 40px; 
+}
+
+.dementor_green{
+	background-image: url('/tiles/dementor_green.gif');
+	background-size: 40px 40px; 
+}
+
+.goat{
+	background-image: url('/tiles/goat_ghost.gif');
+	background-size: 40px 40px;
+}
+
+.table1{
+	background-image: url('/tiles/table.png');
+	background-position: 0px 200px;
+}
+.table2{
+	background-image: url('/tiles/table.png');
+	background-position: 0px 160px;
+}
+.table3{
+	background-image: url('/tiles/table.png');
+	background-position: 0px 120px;
+}
+.table4{
+	background-image: url('/tiles/table.png');
+	background-position: 0px 80px;
+}
+.table5{
+	background-image: url('/tiles/table.png');
+	background-position: 0px 40px;
+}
+.table6{
+	background-image: url('/tiles/table.png');
+	background-position: 80px 200px;
+}
+.table7{
+	background-image: url('/tiles/table.png');
+	background-position: 80px 160px;
+}
+.table8{
+	background-image: url('/tiles/table.png');
+	background-position: 80px 120px;
+}
+.table9{
+	background-image: url('/tiles/table.png');
+	background-position: 80px 80px;
+}
+.table10{
+	background-image: url('/tiles/table.png');
+	background-position: 80px 40px;
+}
+.table11{
+	background-image: url('/tiles/table.png');
+	background-position: 40px 200px;
+}
+.table12{
+	background-image: url('/tiles/table.png');
+	background-position: 40px 160px;
+}
+.table13{
+	background-image: url('/tiles/table.png');
+	background-position: 40px 120px;
+}
+.table14{
+	background-image: url('/tiles/table.png');
+	background-position: 40px 80px;
+}
+.table15{
+	background-image: url('/tiles/table.png');
+	background-position: 40px 40px;
+}
+
+.slitherin{
+	background-image: url('/tiles/slitherin.png');
+	background-size: 40px 40px; 
+}
+
+.gryffindor{
+	background-image: url('/tiles/gryffindor.png');
+	background-size: 40px 40px; 
+}
+
+.hufflepuff{
+	background-image: url('/tiles/hufflepuff.png');
+	background-size: 40px 40px; 
+}
+
+.ravenclaw{
+	background-image: url('/tiles/ravenclaw.png');
+	background-size: 40px 40px; 
+}
+
+.slytherin_b{
+	background-image: url('/tiles/slytherin_b.png');
+	background-size: 40px 40px; 
+}
+
+.torch_1{
+	background-image: url('/tiles/torch_1.gif');
+	background-size: 40px 40px; 
+}
+
+.torch_left{
+	background-image: url('/tiles/torch_left.gif');
+	background-size: 40px 40px; 
+}
+
+.torch_right{
+	background-image: url('/tiles/torch_right.gif');
+	background-size: 40px 40px; 
+}
+
+.banner{
+	background-image: url('/tiles/banner.png');
+	background-size: 40px 40px; 
+}
+
+.fireplace{
+	background-image: url('/tiles/fireplace.gif');
+	background-size: 40px 40px; 
+}
+
+.fire_left{
+	background-image: url('/tiles/fire_left.png');
+	background-size: 40px 40px; 
+}
+
+.fire_right{
+	background-image: url('/tiles/fire_right.png');
+	background-size: 40px 40px; 
+}
+
+.sofa1{
+	background-image: url('/tiles/sofa.png');
+	background-position: 0px 0px;
+}
+
+.sofa2{
+	background-image: url('/tiles/sofa.png');
+	background-position: 0px 40px;
+}
+
+.sofa3{
+	background-image: url('/tiles/sofa.png');
+	background-position: 80px 0px;
+}
+
+.sofa4{
+	background-image: url('/tiles/sofa.png');
+	background-position: 80px 40px;
+}
+
+.sofa5{
+	background-image: url('/tiles/sofa.png');
+	background-position: 40px 00px;
+}
+
+.sofa6{
+	background-image: url('/tiles/sofa.png');
+	background-position: 40px 40px;
+}
+
+.carpet1{
+	background-image: url('/tiles/carpet.png');
+	background-position: 0px 0px;
+}
+
+.carpet2{
+	background-image: url('/tiles/carpet.png');
+	background-position: 0px 40px;
+}
+
+.carpet3{
+	background-image: url('/tiles/carpet.png');
+	background-position: 80px 0px;
+}
+
+.carpet4{
+	background-image: url('/tiles/carpet.png');
+	background-position: 80px 40px;
+}
+
+.carpet5{
+	background-image: url('/tiles/carpet.png');
+	background-position: 40px 00px;
+}
+
+.carpet6{
+	background-image: url('/tiles/carpet.png');
+	background-position: 40px 40px;
+}
+
+.chest{
+	background-image: url('/tiles/chest.gif');
+	background-size: 40px 40px; 
+}
+
+.hagrid1{
+	background-image: url('/tiles/hagrid.png');
+	background-position: 0px 0px; 
+}
+
+.hagrid2{
+	background-image: url('/tiles/hagrid.png');
+	background-position: 0px 40px; 
+}
+
+.unicorn{
+	background-image: url('/tiles/unicorn.png');
+	background-size: 40px 40px; 
+}
+
+.coin{
+	background-image: url('/tiles/coin.gif');
+	background-size: 40px 40px; 
+}
+
+.solder1{
+	background-image: url('/tiles/solder1.png');
+	background-size: 40px 40px; 
+}
+
+.solder2{
+	background-image: url('/tiles/solder2.png');
+	background-size: 40px 40px; 
+}
+
+.letter{
+	background-image: url('/tiles/letter.gif');
+	background-size: 40px 40px;
+}

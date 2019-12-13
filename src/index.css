@@ -1,0 +1,66 @@
+@font-face {
+  font-family: '8BIT WONDER';
+  src: local('8BIT WONDER'), url('/public/8BITWONDERNominal.ttf') format('truetype');
+  /*src: url('/public/8BITWONDERNominal.eot');*/
+/*  src: url('/public/8BITWONDERNominal.eot?#iefix') format('embedded-opentype'),
+    url('/public/8BITWONDERNominal.woff') format('woff'),
+    url('/public/8BITWONDERNominal.ttf') format('truetype');*/
+  font-weight: normal;
+  font-style: normal;
+}
+
+body {
+  margin: 0;
+  font-family: '8BIT WONDER';
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: black;
+  color: white;
+}
+
+p {
+  font-family: '8BIT WONDER';
+}
+
+a{
+  color: #37B067;
+}
+
+.react-audio-player{
+  display: inline-block;
+  font-family: '8BIT WONDER';
+  height: 30px;
+
+}
+
+.header{
+  display: inline-flex;
+    padding: 0px 30px 0px 50px;
+}
+
+.game_name{
+  display: inline-block;
+  position: relative;
+  width: 1000px;
+  margin: auto;
+  text-align: center;
+}
+
+.game_name h1{
+  display: inline;
+  text-align: center;
+  font-family: '8BIT WONDER', sans-serif;
+  color: #37B067;
+  font-size: 24px;
+}
+
+/*html, body, #root {
+  background: black;
+  height: 100%;
+  width: 100%;
+  margin: 0;
+  padding: 0;
+  color: white;
+  font-family: 'Helvetica Neue';
+  font-size: 3vw;
+}*/
