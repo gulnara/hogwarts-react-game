@@ -1,19 +1,18 @@
 
-## Hogwarts-Mode
+# Hogwarts-Mode
 
 On-boarding game!
 
 ![](game.gif)
 
+## Tools Used:
 
-Tools Used:
-
-React JS<br />
-Redux<br />
-Audio plugin<br />
-80 + custom pixel assets<br />
-4 hours of sleep<br />
-Lots of HP nerd pride!<br />
+* React JS
+* Redux
+* Audio plugin
+* 80 + custom pixel assets
+* 4 hours of sleep
+* Lots of HP nerd pride!
 
 ## To Play
 
