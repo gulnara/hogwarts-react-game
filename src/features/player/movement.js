@@ -149,42 +149,42 @@ export default function handleMovement(player){
 		// Dungeon
 		if ((oldPos[0] >= 800 && oldPos[0] <= 1120) && (oldPos[1] >= 280 && oldPos[1] <= 360)){
 			speach ='Welcome to Potions Class! \n  '
-			link = 'https://github.com/mode/webapp'
+			link = ''
 			link_text = 'Instructions for your potion are here.'
 		}
 
 		// Great Hall
 		if ((oldPos[0] >= 40 && oldPos[0] <= 360) && (oldPos[1] >= 40 && oldPos[1] <= 400)){
 			speach = "We have different houses but we don't eat, ... work, alone! \n"
-			link ='https://mode.com/values/' 
+			link ='' 
 			link_text ='Hogwarts-Mode Values' 
 		}
 
 		// Common Room
 		if ((oldPos[0] >= 800 && oldPos[0] <= 1120) && (oldPos[1] >= 40 && oldPos[1] <= 200)){
 			speach = "Welcome to your Common Room!  \n "
-			link = 'https://mode.bamboohr.com/login.php?r=%2Fhome%2F'
+			link = ''
 			link_text ='You can request to visit Hogsmeade, a.k.a. request PTO, here.'
 		}
 
 		// Hagrid's
 		if ((oldPos[0] >= 0 && oldPos[0] <= 360) && (oldPos[1] >= 480 && oldPos[1] <= 560)){
 			speach = "Welcome to Care of Magical Features!  \n You will have a few drill down sessions, this one is dedicated to Product."
-			link = 'https://mode.com/'
+			link = ''
 			link_text ='Magical Features'
 		}
 
 		// Lake
 		if ((oldPos[0] >= 800 && oldPos[0] <= 1160) && (oldPos[1] >= 440 && oldPos[1] <= 560)){
 			speach ='You need to protect the Castle!!! \n  '
-			link = 'https://labs.hunter2.com/'
+			link = ''
 			link_text = 'Lear how to defeat Dementors here.'
 		}
 
 		// Marshawn
 		if ((marshawnX.includes(oldPos[0])) && (marshawnY.includes(oldPos[1]))){
-			speach ='Hi! I am the Ghost of Marshawn The Goat!!! \n And You can Ask me Anything! I am Always happy to help! I usually chat via Slack bot'
-			link = 'https://mode.quip.com/folder/goat-story'
+			speach ='Hi! I am the Ghost!!! \n And You can Ask me Anything! I am Always happy to help! I usually chat via Slack bot'
+			link = ''
 			link_text = 'Here is My Story...'
 		}
 
