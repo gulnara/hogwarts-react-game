@@ -1,7 +1,7 @@
 
-# Hogwarts-Mode
+# "Hogwarts" WebApp Game
 
-On-boarding game!
+This was an experiment project built during a 24 hour hackathon. 
 
 ![](game.gif)
 
