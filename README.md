@@ -3,6 +3,9 @@
 
 On-boarding game!
 
+![](game.gif)
+
+
 Tools Used:
 
 React JS<br />
